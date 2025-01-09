@@ -43,8 +43,8 @@ Installation
 
 1. Clone the repository:
 
-git clone https://github.com/username/ServiceManager-Termux.git
-cd ServiceManager-Termux
+git clone https://github.com/GBLD-313/Service-To-Termux.git
+cd Service-To-Termux
 
 
 2. Compile the code:
